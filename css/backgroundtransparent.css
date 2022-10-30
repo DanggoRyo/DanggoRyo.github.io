@@ -6,10 +6,10 @@
   #footer::before{
       background: transparent!important;
     }
-  /* 头图透明 */
+  /* 头图透明
   #page-header{
     background: transparent!important;
-  }
+  } */
   /* 头图遮罩层透明 */
   #page-header::before{
     background: transparent!important;

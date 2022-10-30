@@ -1,7 +1,7 @@
-/* 页脚透明 */
-#footer{
+  /* 页脚透明
+  #footer{
     background: transparent!important;
-  }
+  } */
   /* 页脚黑色透明玻璃效果移除 */
   #footer::before{
       background: transparent!important;
